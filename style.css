@@ -1,0 +1,16 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+.pageviewstext{
+color:#05b36a;
+}
+.formlabel{
+color:#000000;
+}
+
+
+  
+.searchTerm{
+  width: 70%;
+  height: 40px;
+  border-radius: 5px;
+}
